@@ -1,0 +1,29 @@
+Q1: You currently use the default mask for your IP network 192.168.1.0. You need to subnet your network so that you have 30 additional networks, and 4 hosts per network. Is this possible, and what subnet mask should you use? 
+
+
+Q2: You have sub-netted your class C network 192.168.1.0 with a subnet mask of 255.255.255.240. Please list the following: number of networks, number of hosts per network, the full range of the first three networks, and the usable address range from those first three networks. 
+
+
+Q3: You have sub-netted your class C network 200.138.1.0 with a subnet mask of 255.255.255.252. Please list the following: number of networks, number of hosts per network, the full range of the first three networks, and the usable address range from those first three networks. Additionally, identify the broadcast addresses for each network.
+
+
+Q4: Consider the following subnet masks-
+
+255.0.0.0
+255.128.0.0
+255.192.0.0
+255.240.0.0
+255.255.0.0
+255.255.254.0
+255.255.255.0
+255.255.255.224
+225.255.255.240
+ 
+
+For each subnet mask, find-
+
+a) Number of hosts per subnet
+b) Number of subnets if subnet mask belongs to class A
+c) Number of subnets if subnet mask belongs to class B
+d) Number of subnets if subnet mask belongs to class C
+e) Number of subnets if total 10 bits are used for the global network ID
