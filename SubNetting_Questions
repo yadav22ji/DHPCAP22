@@ -6,8 +6,11 @@ Q2: You have sub-netted your class C network 192.168.1.0 with a subnet mask of 2
 
 Q3: You have sub-netted your class C network 200.138.1.0 with a subnet mask of 255.255.255.252. Please list the following: number of networks, number of hosts per network, the full range of the first three networks, and the usable address range from those first three networks. Additionally, identify the broadcast addresses for each network.
 
+Q4: What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255.224 subnet mask?
 
-Q4: Consider the following subnet masks-
+Q5: You have a network that needs 29 subnets while maximizing the number of host addresses available on each subnet. How many bits must you borrow from the host field to provide the correct subnet mask?
+
+Q6: Consider the following subnet masks-
 
 255.0.0.0
 255.128.0.0
