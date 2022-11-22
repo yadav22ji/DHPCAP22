@@ -1,0 +1,17 @@
+TYPE=Ethernet
+PROXY_METHOD=none
+BROWSER_ONLY=no
+BOOTPROTO=none
+DEFROUTE=yes
+IPV4_FAILURE_FATAL=no
+IPV6INIT=no
+NAME=ens33
+UUID=161ec7be-0365-41e5-856d-cbe91dbf4c27
+DEVICE=ens33
+ONBOOT=yes
+IPADDR=<IP in range of gateway>
+PREFIX=24
+GATEWAY=<your gateway>
+DNS3=8.8.8.8
+DNS2=8.8.4.4
+DNS1=<your gateway>
