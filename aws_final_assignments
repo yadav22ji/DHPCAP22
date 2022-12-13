@@ -1,0 +1,7 @@
+Q1. Launch AWS EC2 Instance for AMI and connect to it remotely.
+
+Q2. Create a Lambda function using any language of your choice. Output should print your name.
+
+Q3. Create a S3 bucket with specific permission. Allow access to any specific aws account.
+
+Q4. Create a VPC with two subnets. Each subnets should have a EC2 attached. Create a internet gateway between these two subnets. Both the EC2 machines should be able to connect to each other.
